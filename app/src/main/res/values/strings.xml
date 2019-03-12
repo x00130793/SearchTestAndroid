@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SearchTest</string>
+    <string-array name="my_movies">
+        <item>Die Hard</item>
+        <item>American Pie</item>
+        <item>Shrek</item>
+        <item>Toy Story</item>
+        <item>Blinded By The Lights</item>
+    </string-array>
+</resources>
